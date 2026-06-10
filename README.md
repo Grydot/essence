@@ -1,9 +1,9 @@
-# Essence <img width="24" height="24" alt="pure_essence" src="https://github.com/user-attachments/assets/08a9a5df-d625-4de7-a5fc-5289ce36faf9" />
+# Essence <img width="24" height="24" alt="pure_essence" src="https://github.com/user-attachments/assets/68c6cc01-e3c3-4f5f-a508-04d9eb4492ba" />
 
 A lightweight, Apple Silicon-native Jagex launcher alternative for macOS. Support for multiple Jagex Accounts with credentials securely stored in the macOS Keychain.
 
 ## Example
-<img width="360" alt="image" src="https://github.com/user-attachments/assets/4019dc85-ffa9-448c-9c05-e1c9661fc3c6" />
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/614fcb56-d6e4-4e4d-ba72-6caf35bf4957" />
 
 
 ## Build & Run (Swift Package Manager)
